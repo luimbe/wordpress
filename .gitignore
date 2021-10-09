@@ -11,7 +11,6 @@
 *.html
 *.js
 *.jsp
-*.php
 *.rss
 *.wasm
 *.wat
