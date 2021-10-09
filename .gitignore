@@ -1,6 +1,7 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/wordpress,web
 # Edit at https://www.toptal.com/developers/gitignore?templates=wordpress,web
+*.workspace
 
 ### Web ###
 *.asp
